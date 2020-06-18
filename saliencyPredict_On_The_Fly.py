@@ -42,7 +42,7 @@ pointcloudnn=8
 rate=0.0
 #simple
 #hilbert
-reshapeFunction='hilbert'
+reshapeFunction='simple'
 #discrete
 #continuous
 type='discrete'
@@ -232,7 +232,7 @@ if groundTruthExists:
     _true=np.asarray(saliencyValueClass).astype(int).tolist()
     #print(_true)
     #print(_pred)
-    classes=np.asarray(range(0,4)).astype(int).tolist()
+    classes=np.asarray(range(0,3)).astype(int).tolist()
     normalize=True
     cm =confusion_matrix(_true, _pred)
     # Only use the labels that appear in the data

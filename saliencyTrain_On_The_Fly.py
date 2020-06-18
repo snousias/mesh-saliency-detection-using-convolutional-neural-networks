@@ -146,9 +146,6 @@ for mIndex in trainSetIndices:
         saliencyValueClass = (np.floor((saliencyValue / step) + 0.5)).astype(int)
         #saliencyValueClass = np.clip(saliencyValueClass, a_min=0, a_max=3)
 
-
-
-
         saliencyValueClass = saliencyValueClass.tolist()
         for i in range(len(saliencyValueClass)):
             A = np.zeros(numberOfClasses, dtype=int)
