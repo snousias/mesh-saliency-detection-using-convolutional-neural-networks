@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/Dropbox/_GroundWork/Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks/sessions/Saliency/discrete/hilbert/_saliency_32_models_meshreshaping_hilbertdiscrete_4"
+all_model_checkpoint_paths: "E:/Dropbox/_GroundWork/Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks/sessions/Saliency/discrete/hilbert/_saliency_32_models_meshreshaping_hilbertdiscrete_4"

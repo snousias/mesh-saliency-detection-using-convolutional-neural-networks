@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c98d8fd-b8a6-4fb0-99ae-57b5550de21d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZlWcq6yM83iIFlDKqHQEWj1tVy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Dropbox\_GroundWork\Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks\images" />
+      <recent name="E:\Dropbox\_GroundWork\Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Dropbox\_GroundWork\Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks\_2" />
+      <recent name="E:\Dropbox\_GroundWork\Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.saliencyGenerateRPCAGroundTruth">
+    <configuration name="saliencyGenerateRPCAGroundTruth" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/saliencyGenerateRPCAGroundTruth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="saliencyPredict_On_The_Fly" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/saliencyPredict_On_The_Fly.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="saliencyTrain_On_The_Fly" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/saliencyTrain_On_The_Fly.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.saliencyGenerateRPCAGroundTruth" />
+      <item itemvalue="Python.saliencyPredict_On_The_Fly" />
+      <item itemvalue="Python.saliencyTrain_On_The_Fly" />
+    </list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c98d8fd-b8a6-4fb0-99ae-57b5550de21d" name="Default Changelist" comment="" />
+      <created>1585414242253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585414242253</updated>
+      <workItem from="1585414243589" duration="133000" />
+      <workItem from="1585499531084" duration="67607000" />
+      <workItem from="1586910075407" duration="3744000" />
+      <workItem from="1587932169075" duration="782000" />
+      <workItem from="1587988159054" duration="144000" />
+      <workItem from="1589355095078" duration="1118000" />
+      <workItem from="1589357877435" duration="713000" />
+      <workItem from="1592324075862" duration="7000" />
+      <workItem from="1592324519269" duration="312000" />
+      <workItem from="1592386764728" duration="3071000" />
+      <workItem from="1592462251434" duration="14397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586735394248">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="254" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.838@0.0.1600.838" timestamp="1586735394248" />
+    <state x="503" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585590091175">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="503" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.838@0.0.1600.838" timestamp="1585590091175" />
+    <state x="526" y="71" key="#compressionContinuousV2" timestamp="1585845857648">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="526" y="71" key="#compressionContinuousV2/0.0.1600.838@0.0.1600.838" timestamp="1585845857648" />
+    <state x="526" y="71" key="#presentCompression" timestamp="1585870865999">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="526" y="71" key="#presentCompression/0.0.1600.838@0.0.1600.838" timestamp="1585870865999" />
+    <state x="526" y="71" key="#saliencyGenerateRPCAGroundTruth" timestamp="1586735359351">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="526" y="71" key="#saliencyGenerateRPCAGroundTruth/0.0.1600.838@0.0.1600.838" timestamp="1586735359351" />
+    <state x="526" y="71" key="#saliencyPredictPC" timestamp="1585568437231">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="526" y="71" key="#saliencyPredictPC/0.0.1600.838@0.0.1600.838" timestamp="1585568437231" />
+    <state x="526" y="71" key="#saliencyPredict_On_The_Fly" timestamp="1585523567765">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="526" y="71" key="#saliencyPredict_On_The_Fly/0.0.1600.838@0.0.1600.838" timestamp="1585523567765" />
+    <state x="526" y="71" key="#saliencyTrain" timestamp="1585504976010">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="526" y="71" key="#saliencyTrain/0.0.1600.838@0.0.1600.838" timestamp="1585504976010" />
+    <state x="526" y="71" key="#saliencyTrain_On_The_Fly" timestamp="1585593866738">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="526" y="71" key="#saliencyTrain_On_The_Fly/0.0.1600.838@0.0.1600.838" timestamp="1585593866738" />
+    <state x="526" y="71" key="#tester" timestamp="1586209552487">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="526" y="71" key="#tester/0.0.1600.838@0.0.1600.838" timestamp="1586209552487" />
+    <state x="580" y="175" key="FileChooserDialogImpl" timestamp="1587932349277">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="580" y="175" key="FileChooserDialogImpl/0.0.1600.838@0.0.1600.838" timestamp="1587932349277" />
+    <state width="778" height="208" key="GridCell.Tab.0.bottom" timestamp="1587498789342">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state width="778" height="208" key="GridCell.Tab.0.bottom/0.0.1600.838@0.0.1600.838" timestamp="1587498789342" />
+    <state width="778" height="208" key="GridCell.Tab.0.center" timestamp="1587498789342">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state width="778" height="208" key="GridCell.Tab.0.center/0.0.1600.838@0.0.1600.838" timestamp="1587498789342" />
+    <state width="778" height="208" key="GridCell.Tab.0.left" timestamp="1587498789342">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state width="778" height="208" key="GridCell.Tab.0.left/0.0.1600.838@0.0.1600.838" timestamp="1587498789342" />
+    <state width="778" height="208" key="GridCell.Tab.0.right" timestamp="1587498789342">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state width="778" height="208" key="GridCell.Tab.0.right/0.0.1600.838@0.0.1600.838" timestamp="1587498789342" />
+    <state x="303" y="49" key="SettingsEditor" timestamp="1585504520430">
+      <screen x="0" y="0" width="1600" height="838" />
+    </state>
+    <state x="303" y="49" key="SettingsEditor/0.0.1600.838@0.0.1600.838" timestamp="1585504520430" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_2/saliencyTrain_Data_utils.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_2/saliencyTrain_Data_utils.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/saliencyGenerateRPCAGroundTruth.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/saliencyGenerateRPCAGroundTruth.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/saliencyGenerateRPCAGroundTruth.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/saliencyGenerateRPCAGroundTruth.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks$tester.coverage" NAME="tester Coverage Results" MODIFIED="1586209654914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks$compressionContinuousV2.coverage" NAME="compressionContinuousV2 Coverage Results" MODIFIED="1585872126634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks$saliencyPredictPC.coverage" NAME="saliencyPredictPC Coverage Results" MODIFIED="1585578575814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks$saliencyTrain_On_The_Fly.coverage" NAME="saliencyTrain_On_The_Fly Coverage Results" MODIFIED="1592481770976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks$saliencyGenerateRPCAGroundTruth.coverage" NAME="saliencyGenerateRPCAGroundTruth Coverage Results" MODIFIED="1592482340751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks$saliencyTrain.coverage" NAME="saliencyTrain Coverage Results" MODIFIED="1585589567671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks$saliencyPredict_On_The_Fly.coverage" NAME="saliencyPredict_On_The_Fly Coverage Results" MODIFIED="1592469582612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mesh_Saliency_Detection_Using_Convolutional_Neural_Networks$presentCompression.coverage" NAME="presentCompression Coverage Results" MODIFIED="1585873679639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
