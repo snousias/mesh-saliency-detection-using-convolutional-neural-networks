@@ -35,7 +35,7 @@ patchSide=32
 numOfElements = patchSide * patchSide
 numberOfClasses=4
 
-fullModelPath="./scanned/fandisk.obj"
+fullModelPath="./scanned/head.obj"
 saliencyGroundTrouthData = '_saliencyValues_of_cendroids.csv'
 saliencyDivisions=64
 pointcloudnn=8
@@ -220,8 +220,12 @@ if groundTruthExists:
     print('Saliency ground truth data :', saliencyValuePath)
 
     step = (1 / numberOfClasses)
-    saliencyValueClass = (np.floor((saliencyValue / step))).astype(int)
-    saliencyValueClass = np.clip(saliencyValueClass, a_min=0, a_max=3)
+    saliencyValueClass = (np.floor((saliencyValue / step) + 0.5)).astype(int)
+    # saliencyValueClass = np.clip(saliencyValueClass, a_min=0, a_max=3)
+
+    # step = (1 / numberOfClasses)
+    # saliencyValueClass = (np.floor((saliencyValue / step))).astype(int)
+    # saliencyValueClass = np.clip(saliencyValueClass, a_min=0, a_max=3)
 
     saliencyValueClass=saliencyValueClass.tolist()
     _pred=prediction

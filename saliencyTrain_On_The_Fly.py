@@ -141,9 +141,13 @@ for mIndex in trainSetIndices:
 
     if type == 'discrete':
         #Discrete
+
         step = (1 / numberOfClasses)
-        saliencyValueClass = (np.floor((saliencyValue / step))).astype(int)
-        saliencyValueClass = np.clip(saliencyValueClass, a_min=0, a_max=3)
+        saliencyValueClass = (np.floor((saliencyValue / step) + 0.5)).astype(int)
+        #saliencyValueClass = np.clip(saliencyValueClass, a_min=0, a_max=3)
+
+
+
 
         saliencyValueClass = saliencyValueClass.tolist()
         for i in range(len(saliencyValueClass)):
