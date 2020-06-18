@@ -47,7 +47,7 @@ Citation info:
        
 
 
-###Train with groundtruth data
+### Train with groundtruth data
 
      python saliencyTrain_On_The_Fly.py
      
@@ -57,7 +57,7 @@ Citation info:
      
 # Notes
 
-To select model search for the line in either groundtruth generation of prediction modes
+To select model, search for the following line in either groundtruth generation or prediction script
 
     fullModelPath="./scanned/head.obj"
 
