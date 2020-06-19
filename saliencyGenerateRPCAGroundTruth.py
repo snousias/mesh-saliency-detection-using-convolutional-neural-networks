@@ -27,7 +27,7 @@ print(80 * "=")
 rootdir='./'
 modelsDir='scanned/'
 dataDir='data/'
-fullModelPath="./scanned/fandisk.obj"
+fullModelPath="./scanned/armchair.obj"
 patchSide=32
 numOfElements = patchSide * patchSide
 numberOfClasses=4
@@ -114,6 +114,7 @@ for mVertexIndex,mVertex in enumerate(mModel.vertices):
     saliencyPerVertex[mVertexIndex]=np.max(umbrella)
 
 #---- write to file ------
+saliencyPerFace=saliencyPerFace/np.max(saliencyPerFace)
 np.savetxt(rootdir + modelsDir + modelName + saliencyGroundTrouthData, saliencyPerFace, delimiter=',',fmt='%10.3f')
 
 

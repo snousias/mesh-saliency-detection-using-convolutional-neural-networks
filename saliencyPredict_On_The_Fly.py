@@ -42,7 +42,7 @@ pointcloudnn=8
 rate=0.0
 #simple
 #hilbert
-reshapeFunction='simple'
+reshapeFunction='hilbert'
 #discrete
 #continuous
 type='discrete'
@@ -220,8 +220,8 @@ if groundTruthExists:
     print('Saliency ground truth data :', saliencyValuePath)
 
     step = (1 / numberOfClasses)
-    saliencyValueClass = (np.floor((saliencyValue / step) + 0.5)).astype(int)
-    # saliencyValueClass = np.clip(saliencyValueClass, a_min=0, a_max=3)
+    saliencyValueClass = (np.floor((saliencyValue / step))).astype(int)
+    saliencyValueClass = np.clip(saliencyValueClass, a_min=0, a_max=3)
 
     # step = (1 / numberOfClasses)
     # saliencyValueClass = (np.floor((saliencyValue / step))).astype(int)
