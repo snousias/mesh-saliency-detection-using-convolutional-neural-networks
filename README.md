@@ -43,7 +43,14 @@ Citation info:
     tppubtype = {article}
     } 
     
-       
+   
+ <table style="border: 1px solid black;"><tr>
+<td> <img src="https://github.com/snousias/mesh-saliency-detection-using-convolutional-neural-networks/raw/master/images/mesh.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="https://github.com/snousias/mesh-saliency-detection-using-convolutional-neural-networks/raw/master/images/wireframe.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="https://github.com/snousias/mesh-saliency-detection-using-convolutional-neural-networks/raw/master/images/fusionbasedsaliency.png" alt="Drawing" style="width: 200px;"/> </td>
+<td> <img src="https://github.com/snousias/mesh-saliency-detection-using-convolutional-neural-networks/raw/master/images/fusionBasedSaliencyQuantized.png" alt="Drawing" style="width: 250px;"/> </td>
+</tr>
+</table>
        
 
 
