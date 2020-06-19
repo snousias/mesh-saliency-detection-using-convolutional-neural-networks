@@ -45,8 +45,7 @@ Citation info:
    
    
    
-<img src="https://github.com/snousias/mesh-saliency-detection-using-convolutional-neural-networks/raw/master/images/fusionBasedSaliencyQuantized.png" alt="Drawing" style="width: 250px;"/> 
-
+![GitHub Logo](./images/fusionBasedSaliencyQuantized.png)
        
 
 
@@ -58,6 +57,9 @@ Citation info:
 
     python saliencyPredict_On_The_Fly.py
      
+
+![GitHub Logo](./images/head_hilbert_4_classes.png)     
+
 # Notes
 
 To select model, search for the following line in either groundtruth generation or prediction script
