@@ -8,7 +8,8 @@ Mesh saliency has been widely considered as the measure of visual importance of 
 
 ## Video presentation
 
-[![MESH SALIENCY DETECTION USING CONVOLUTIONAL NEURAL NETWORKS](./images/pipeline.jpg)](https://youtu.be/lSflsOBwnnY "MESH SALIENCY DETECTION USING CONVOLUTIONAL NEURAL NETWORKS"){:target="_blank"}
+<a href="https://youtu.be/lSflsOBwnnY" target="_blank"><img src="https://raw.githubusercontent.com/snousias/mesh-saliency-detection-using-convolutional-neural-networks/master/images/pipeline.jpg" /> </a>
+
 
 
 ## Requirements
